@@ -8,7 +8,7 @@ public class Main {
         System.out.println("Second Test Case:-");
         maxInteger.maxValue(4,8,2);
         System.out.println("Third Test Case:-");
-        maxInteger.maxValue(6,5,3);
+        maxInteger.maxValue(6,5,2);
     }
 
 }
